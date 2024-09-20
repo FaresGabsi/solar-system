@@ -181,6 +181,3 @@ jobs:
         - name: Check files
           run: |
             cat kubernetes/development/*.yaml
-    
-
-            
